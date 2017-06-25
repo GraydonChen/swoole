@@ -3,7 +3,7 @@
  * Created by PhpStorm.
  * User: GraydonChen
  * Date: 2017/4/26
- * Time: 17:26
+ * Time: 17:26 
  */
 define('SERVER_ROOT', dirname(__FILE__).'/');
 define('CONFIG',SERVER_ROOT.'config/');
@@ -11,7 +11,6 @@ define('MOD',SERVER_ROOT.'model/');
 define('LIB',SERVER_ROOT.'Lib/');
 
 $prot = $argv[1];
-
 include_once LIB.'SwooleService.php';
 
 $SwooleConfig = include_once CONFIG.'swoole.php';
