@@ -5,6 +5,7 @@
  * Date: 2017/4/26
  * Time: 17:29
  */
+
 include_once SERVER_ROOT . 'config/load.php';
 include_once SERVER_ROOT . 'model/log.php';
 class hooBehavior{
