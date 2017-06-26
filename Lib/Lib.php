@@ -14,6 +14,7 @@ function Trace() {
 	}
 }
 
+
 SwooleLib::LoadLibClass('SwooleEncryptDecrypt', 'Protocols/BYPack');
 SwooleLib::LoadLibClass('SocketPackage', 'Protocols/BYPack');
 SwooleLib::LoadLibClass('ReadPackageExt', 'Protocols/BYPack');
