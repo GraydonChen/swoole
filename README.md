@@ -29,3 +29,5 @@ IO复用异步非阻塞程序使用经典的Reactor模型，Reactor顾名思义�
 建议书籍《linux高性能服务器编程》、《tcp/ip详解》《图解tcp／ip》相对容易理解
 ## swoole执行过程
 ![possess](https://github.com/GraydonChen/swoole/blob/master/image/process.png)
+## swoole线程模型
+![possess](https://github.com/GraydonChen/swoole/blob/master/image/pattern.png)
