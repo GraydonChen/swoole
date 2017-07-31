@@ -28,3 +28,4 @@ IO复用异步非阻塞程序使用经典的Reactor模型，Reactor顾名思义�
 1) 明白tcp／ip协议族 通信流程，tcp／ip发包解包的过程，明白各个层里面的协议的用法及原理，通信的方式。
 建议书籍《linux高性能服务器编程》、《tcp/ip详解》《图解tcp／ip》相对容易理解
 ## swoole执行过程
+![possess](https://github.com/GraydonChen/swoole/blob/master/image/process.png)
