@@ -31,3 +31,5 @@ IO复用异步非阻塞程序使用经典的Reactor模型，Reactor顾名思义�
 ![possess](https://github.com/GraydonChen/swoole/blob/master/image/process.png)
 ## Swoole的进程/线程模型
 ![possess](https://github.com/GraydonChen/swoole/blob/master/image/pattern.png)
+
+##  未完待续。。。。
