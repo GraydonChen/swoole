@@ -6,3 +6,5 @@
  * Time: 17:46
  */
 include_once MOD.'oo.php';
+ 
+echo 123;
